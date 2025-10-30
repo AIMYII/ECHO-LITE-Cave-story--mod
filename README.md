@@ -1,5 +1,5 @@
-# ECHO-LITE-Cave-story-mod
-A Cave Story+ mod, that is a homage to the Mega man ZX series and games, made in Cave Story+.
+# ECHO-LITE: Cave Story+ Mod
+A fan-made Cave Story+ mod inspired by the Mega Man ZX series. This project blends exploration, story, and action as a tribute to the worlds that inspired it.
 
-**Disclamer**
-This project is not endorsed by or affiliated with Capcom or Inti Creates. It’s a fan-made creation, meant as a thank-you to the amazing teams behind the games.
+**Disclaimer**
+This project is not endorsed by or affiliated with Capcom or Inti Creates. It is a fan-made creation, made purely as a thank-you to the amazing teams behind the original games.
